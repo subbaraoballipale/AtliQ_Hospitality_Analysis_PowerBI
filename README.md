@@ -4,7 +4,7 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 Link to the [Data Set](https://github.com/subbaraoballipale/AtliQ_Hospitality_Analysis_PowerBI/tree/master/dataset)
 
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
+Link to [Interactive Dashboard](https://www.novypro.com/project/atliqhospitalityanalysispowerbi-1)
 
 Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
 

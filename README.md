@@ -5,7 +5,7 @@ Link to the [Data Set](https://github.com/subbaraoballipale/AtliQ_Hospitality_An
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/atliqhospitalityanalysispowerbi-1)
 
-Link to [Presentation Video]()
+Link to [Presentation Video](https://youtu.be/01T431_deFY)
 
 ## Problem statement
 
